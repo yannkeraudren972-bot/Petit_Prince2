@@ -27,13 +27,3 @@ Ce projet explore les concepts de **client/serveur**, **interfaces graphiques (I
 
 ---
 
-## 🚀 Instructions
-
-1. Créer un dépôt GitHub et le cloner dans votre workspace Eclipse.
-2. Créer un projet Java dans Eclipse avec le même nom.
-3. Organiser le code en packages clairs et cohérents.
-4. Synchroniser régulièrement :  
-   ```bash
-   git add .  
-   git commit -m "Progression"  
-   git push
